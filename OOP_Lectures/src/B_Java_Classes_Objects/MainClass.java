@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Lec_02_Java_Classes_and_Objects_part01;
+package B_Java_Classes_Objects;
 
 /**
  *

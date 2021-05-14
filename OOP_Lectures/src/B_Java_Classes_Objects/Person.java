@@ -1,5 +1,5 @@
 
-package Lec_02_Java_Classes_and_Objects_part01;
+package B_Java_Classes_Objects;
 
 public class Person {
     
