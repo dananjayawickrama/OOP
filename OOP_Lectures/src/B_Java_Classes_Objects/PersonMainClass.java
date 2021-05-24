@@ -22,6 +22,13 @@ public class PersonMainClass {
          p1.displayDetails();
          
          
+         System.out.println();
+         
+         
+         Person p2 = new Person("Dilan");
+         p2.displayDetails();
+         
+         
      }
     
 }

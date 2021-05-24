@@ -11,6 +11,13 @@ public class Person {
     
     }
     
+    
+    public Person(String n) {
+    	
+    	personId = "AAA0111"; 
+    	name = n;
+    }
+    
     public String getPID() {
     
         return personId;
