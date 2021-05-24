@@ -10,7 +10,7 @@ public class E5_DemoMain {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Enter Number:");
+		System.out.println("Enter Number:"); 
 		int number = sc.nextInt();
 		
 		E5_Demo obj = new E5_Demo();
