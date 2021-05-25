@@ -6,8 +6,8 @@ class ToyCat extends Cat {
 	
 	public ToyCat(String name, String manufacturer) {
 		
-		super(name);
-		this.manufacturer = manufacturer;
+		 super(name);
+		 this.manufacturer = manufacturer;
 		
 	}
 	
