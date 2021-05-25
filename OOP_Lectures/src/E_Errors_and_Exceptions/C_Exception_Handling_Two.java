@@ -5,10 +5,10 @@ public class C_Exception_Handling_Two {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		try {
+		  try {
 			
 				int c[] = {1};
-				c[42] = 99;
+				c[45] = 99;
 				int a = args.length;
 				System.out.println("a = " + a);
 				int b = 42 / a;
