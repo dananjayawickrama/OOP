@@ -12,6 +12,11 @@ class ToyCat extends Cat {
 	}
 	
 	
+	public ToyCat() {
+		System.out.println("ToyCat constructor called");
+		}
+	
+	
 	public void display() 
 	{
 		super.display(); 

@@ -1,6 +1,6 @@
 package E_Abstract_classes_Interfaces;
 
-class Animal { 
+public abstract class Animal { 
 	
 	private String name; 
 	
@@ -10,11 +10,13 @@ class Animal {
 		
 	} 
 	
-	public String speak()
-	{
-		return ""; 
-		
-	} 
+		public Animal() {
+			System.out.println("Animal constructor called");
+		}
+	
+	
+	public abstract String speak();
+
 	
 	public void display() 
 	{
