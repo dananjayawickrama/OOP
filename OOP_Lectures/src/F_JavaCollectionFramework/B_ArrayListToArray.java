@@ -2,7 +2,7 @@ package F_JavaCollectionFramework;
 
 import java.util.ArrayList;
 
-public class B_ArrayListToArray {
+public class B_ArrayListToArray{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -19,7 +19,6 @@ public class B_ArrayListToArray {
 				
 				
 				//convert to array
-				
 				String myArray[] = new String[arrayListObj.size()];
 				myArray = arrayListObj.toArray(myArray);
 				
